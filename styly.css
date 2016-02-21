@@ -1,0 +1,48 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+
+html, body {
+	margin: 0;
+	padding: 0;
+}	
+
+h1 {color: green;}
+p {color: green;}
+ul li{display: inline;
+	font-size: 30px}
+
+
+div {background-color:gold;
+	padding:20px;
+	border-radius: 20px
+}
+p {display:block;}
+
+.snek {
+	float: left;
+}
+.karavan {
+	width: 100%;
+}
+nav ul li a {
+	color: green;
+	text-decoration: none;
+
+}
+nav ul li a:hover {
+	color: green;
+	opacity: 0.7;
+	text-decoration:none; 
+} 
+nav ul li a:visited {
+	color: white;
+	text-decoration: none;
+}
+li {margin: 10px}
+
+
+
+
+
+
